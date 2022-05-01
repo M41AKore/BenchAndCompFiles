@@ -1,0 +1,21 @@
+<Competition>
+	<Title>rA x Aim Lab Comp #3</Title>
+	<Parts>
+		<Part>
+			<Name>Part 1</Name>
+			<Startdate>2022-04-18 18:00:00</Startdate>
+			<Enddate>2022-05-02 18:00:00</Enddate>
+			<Scenarios>
+				<Scenario>
+					<Name>rA x Aim Lab Comp #3 - Sixshot Pressure</Name>
+				</Scenario>
+				<Scenario>
+					<Name>rA x Aim Lab Comp #3 - Strafetrack Close Hell</Name>
+				</Scenario>
+				<Scenario>
+					<Name>rA x Aim Lab Comp #3 - Preciseswitch</Name>
+				</Scenario>
+			</Scenarios>
+		</Part>
+	</Parts>
+</Competition>
