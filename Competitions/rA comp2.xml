@@ -1,0 +1,37 @@
+<Competition>
+	<Title>rA x Aim Lab Comp #2</Title>
+	<Parts>
+		<Part>
+			<Name>Part 1</Name>
+			<Startdate>2022-03-14 18:00:00</Startdate>
+			<Enddate>2022-03-28 18:00:00</Enddate>
+			<Scenarios>
+				<Scenario>
+					<Name>rA x Aim Lab Comp #2 - Fourshot</Name>
+				</Scenario>
+				<Scenario>
+					<Name>rA x Aim Lab Comp #2 - XYswitch</Name>
+				</Scenario>
+				<Scenario>
+					<Name>rA x Aim Lab Comp #2 - rA Airtrack</Name>
+				</Scenario>
+			</Scenarios>
+		</Part>
+		<Part>
+			<Name>Part 2</Name>
+			<Startdate>2022-03-28 18:00:00</Startdate>
+			<Enddate>2022-04-11 18:00:00</Enddate>
+			<Scenarios>
+				<Scenario>
+					<Name>rA x Aim Lab Comp #2 - Jumpclick</Name>
+				</Scenario>
+				<Scenario>
+					<Name>rA x Aim Lab Comp #2 - Precisesphere</Name>
+				</Scenario>
+				<Scenario>
+					<Name>rA x Aim Lab Comp #2 - Speedflick</Name>
+				</Scenario>
+			</Scenarios>
+		</Part>
+	</Parts>
+</Competition>
