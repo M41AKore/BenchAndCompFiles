@@ -1,0 +1,267 @@
+<Benchmark>
+	<Title>Revosect Hard Benchmarks</Title>
+	<Ranks>
+		<Rank>
+			<Name>Mythic</Name>
+			<Color>#ffd602</Color>
+			<TaskEnergyRequirement>150</TaskEnergyRequirement>
+			<RankEnergyRequirement>1820</RankEnergyRequirement>
+		</Rank>
+		<Rank>
+			<Name>Immortal</Name>
+			<Color>#c26ffd</Color>
+			<TaskEnergyRequirement>175</TaskEnergyRequirement>
+			<RankEnergyRequirement>2150</RankEnergyRequirement>
+		</Rank>
+		<Rank>
+			<Name>Archon</Name>
+			<Color>#fe0100</Color>
+			<TaskEnergyRequirement>210</TaskEnergyRequirement>
+			<RankEnergyRequirement>2500</RankEnergyRequirement>
+		</Rank>
+		<Rank>
+			<Name>Ethereal</Name>
+			<Color>#91d8e3</Color>
+			<TaskEnergyRequirement>245</TaskEnergyRequirement>
+			<RankEnergyRequirement>3020</RankEnergyRequirement>
+		</Rank>
+		<Rank>
+			<Name>Divine</Name>
+			<Color>#000200</Color>
+			<TaskEnergyRequirement>310</TaskEnergyRequirement>
+			<RankEnergyRequirement>3580</RankEnergyRequirement>
+		</Rank>
+	</Ranks>
+	<Categories>
+		<Category>
+			<Name>Clicking</Name>
+			<Subcategories>
+				<Subcategory>
+					<Name>Static</Name>
+					<Scenarios>
+						<Scenario>
+							<Name>rA Twoshot</Name>
+							<RankScoreRequirements>
+								<RankScore>1120</RankScore>
+								<RankScore>1190</RankScore>
+								<RankScore>1260</RankScore>
+								<RankScore>1330</RankScore>
+								<RankScore>1400</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Fourwide</Name>
+							<RankScoreRequirements>
+								<RankScore>1420</RankScore>
+								<RankScore>1490</RankScore>
+								<RankScore>1570</RankScore>
+								<RankScore>1640</RankScore>
+								<RankScore>1720</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Threewide Small</Name>
+							<RankScoreRequirements>
+								<RankScore>1000</RankScore>
+								<RankScore>1050</RankScore>
+								<RankScore>1100</RankScore>
+								<RankScore>1150</RankScore>
+								<RankScore>1200</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+					</Scenarios>		
+				</Subcategory>
+				<Subcategory>
+					<Name>Dynamic</Name>
+					<Scenarios>
+						<Scenario>
+							<Name>rA 3Dclick</Name>
+							<RankScoreRequirements>
+								<RankScore>550</RankScore>
+								<RankScore>620</RankScore>
+								<RankScore>690</RankScore>
+								<RankScore>760</RankScore>
+								<RankScore>830</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA XYclick</Name>
+							<RankScoreRequirements>
+								<RankScore>740</RankScore>
+								<RankScore>820</RankScore>
+								<RankScore>900</RankScore>
+								<RankScore>1000</RankScore>
+								<RankScore>1100</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Jumpclick</Name>
+							<AlternativeName>rA x Aim Lab Comp #2 - Jumpclick</AlternativeName>
+							<RankScoreRequirements>
+								<RankScore>3100</RankScore>
+								<RankScore>3550</RankScore>
+								<RankScore>4000</RankScore>
+								<RankScore>4450</RankScore>
+								<RankScore>4900</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+					</Scenarios>		
+				</Subcategory>
+			</Subcategories>
+		</Category>
+		<Category>
+			<Name>Tracking</Name>
+			<Subcategories>
+				<Subcategory>
+					<Name>Precise</Name>
+					<Scenarios>
+						<Scenario>
+							<Name>rA Jumptrack</Name>
+							<RankScoreRequirements>
+								<RankScore>2100</RankScore>
+								<RankScore>2400</RankScore>
+								<RankScore>2600</RankScore>
+								<RankScore>2800</RankScore>
+								<RankScore>3000</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Smoothtrack</Name>
+							<RankScoreRequirements>
+								<RankScore>2150</RankScore>
+								<RankScore>2350</RankScore>
+								<RankScore>2600</RankScore>
+								<RankScore>2800</RankScore>
+								<RankScore>3000</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Precisesphere</Name>
+							<AlternativeName>rA x Aim Lab Comp #2 - Precisesphere</AlternativeName>
+							<RankScoreRequirements>
+								<RankScore>2200</RankScore>
+								<RankScore>2400</RankScore>
+								<RankScore>2600</RankScore>
+								<RankScore>2900</RankScore>
+								<RankScore>3200</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+					</Scenarios>		
+				</Subcategory>
+				<Subcategory>
+					<Name>Reactive</Name>
+					<Scenarios>
+						<Scenario>
+							<Name>rA Airtrack</Name>
+							<AlternativeName>rA x Aim Lab Comp #2 - rA Airtrack</AlternativeName>
+							<RankScoreRequirements>
+								<RankScore>2100</RankScore>
+								<RankScore>2250</RankScore>
+								<RankScore>2400</RankScore>
+								<RankScore>2600</RankScore>
+								<RankScore>2800</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Reactivesphere</Name>
+							<RankScoreRequirements>
+								<RankScore>1750</RankScore>
+								<RankScore>1900</RankScore>
+								<RankScore>2050</RankScore>
+								<RankScore>2200</RankScore>
+								<RankScore>2400</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Strafetrack</Name>
+							<RankScoreRequirements>
+								<RankScore>2100</RankScore>
+								<RankScore>2250</RankScore>
+								<RankScore>2400</RankScore>
+								<RankScore>2600</RankScore>
+								<RankScore>2800</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+					</Scenarios>		
+				</Subcategory>
+			</Subcategories>
+		</Category>
+		<Category>
+			<Name>Switching</Name>
+			<Subcategories>
+				<Subcategory>
+					<Name>Flick</Name>
+					<Scenarios>
+						<Scenario>
+							<Name>rA Wideflick</Name>
+							<RankScoreRequirements>
+								<RankScore>104</RankScore>
+								<RankScore>108</RankScore>
+								<RankScore>112</RankScore>
+								<RankScore>116</RankScore>
+								<RankScore>120</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Speedflick</Name>
+							<AlternativeName>rA x Aim Lab Comp #2 - Speedflick</AlternativeName>
+							<RankScoreRequirements>
+								<RankScore>125</RankScore>
+								<RankScore>130</RankScore>
+								<RankScore>135</RankScore>
+								<RankScore>140</RankScore>
+								<RankScore>145</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Orbflick</Name>
+							<RankScoreRequirements>
+								<RankScore>112</RankScore>
+								<RankScore>120</RankScore>
+								<RankScore>128</RankScore>
+								<RankScore>136</RankScore>
+								<RankScore>144</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+					</Scenarios>		
+				</Subcategory>
+				<Subcategory>
+					<Name>Track</Name>
+					<Scenarios>
+						<Scenario>
+							<Name>rA 3Dswitch</Name>
+							<RankScoreRequirements>
+								<RankScore>50</RankScore>
+								<RankScore>54</RankScore>
+								<RankScore>58</RankScore>
+								<RankScore>62</RankScore>
+								<RankScore>65</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA Waveswitch</Name>
+							<RankScoreRequirements>
+								<RankScore>48</RankScore>
+								<RankScore>51</RankScore>
+								<RankScore>54</RankScore>
+								<RankScore>57</RankScore>
+								<RankScore>60</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+						<Scenario>
+							<Name>rA XYswitch</Name>
+							<AlternativeName>rA x Aim Lab Comp #2 - XYswitch</AlternativeName>
+							<RankScoreRequirements>
+								<RankScore>80</RankScore>
+								<RankScore>85</RankScore>
+								<RankScore>90</RankScore>
+								<RankScore>96</RankScore>
+								<RankScore>102</RankScore>
+							</RankScoreRequirements>
+						</Scenario>
+					</Scenarios>		
+				</Subcategory>
+			</Subcategories>
+		</Category>
+	</Categories>
+</Benchmark>
